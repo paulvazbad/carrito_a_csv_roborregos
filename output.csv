@@ -1,0 +1,56 @@
+qty,product_sku,product_id,product_name,product_url,product_price_value
+1,DIP-4P,17006,Switch deslizable (Dip Switch) de 4 posiciones,https://www.steren.com.mx/switch-deslizable-dip-switch-de-4-posiciones.html,9
+1,VL-15P,19197,"Micro interruptor (Switch) con palanca de lámina, de 15 Amperes y 125 Vca",https://www.steren.com.mx/micro-interruptor-switch-con-palanca-de-lamina-de-15-amperes-y-125-vca.html,29
+1,BTS-19,16560,"Switch de balancín, de 1 polo, 1 tiro, 2 posiciones (ON-OFF), con piloto, 125/250 Vca",https://www.steren.com.mx/switch-de-balancin-de-1-polo-1-tiro-2-posiciones-on-off-con-piloto-125-250-vca.html,15
+1,AU-108,20676,Switch de retención con contacto NC/NA e iluminación verde,https://www.steren.com.mx/switch-de-retencion-con-contacto-nc-na-e-iluminacion-verde.html,199
+1,SS0501A,18727,Micro switch con palanca de lamina,https://www.steren.com.mx/micro-switch-con-palanca-de-lamina.html,24
+1,509-030,15976,"Protoboard con bornes de alimentación, 2 bloques y 4 tiras",https://www.steren.com.mx/protoboard-con-bornes-de-alimentacion-2-bloques-y-4-tiras.html,395
+1,509-010,15974,"Protoboard de ensamble a presión, 1 bloque y 2 tiras",https://www.steren.com.mx/protoboard-de-ensamble-a-presion-1-bloque-y-2-tiras.html,120
+1,ARD-376,20291,Sensor de color para Arduino y microcontroladores,https://www.steren.com.mx/sensor-de-color-para-arduino-y-microcontroladores.html,220
+1,ARD-369,20304,Joystick Shield para Arduino y microcontroladores,https://www.steren.com.mx/joystick-shield-para-arduino-y-microcontroladores.html,180
+1,ARD-375,20308,Módulo reproductor MP3 para Arduino y microcontroladores,https://www.steren.com.mx/modulo-reproductor-mp3-para-arduino-y-microcontroladores.html,395
+1,ARD-341,19544,Tarjeta para control de motores CC (L298N),https://www.steren.com.mx/tarjeta-para-control-de-motores-cc-l298n.html,140
+1,MOT-100,19604,Micro servomotor con torque de 1.8 Kgf/cm,https://www.steren.com.mx/micro-servomotor-con-torque-de-1-8-kgf-cm.html,99
+1,ARD-380,19462,Display LCD 2x16,https://www.steren.com.mx/display-lcd-2x16.html,79
+1,CV-005,20130,Celda Peltier 40 x 40mm,https://www.steren.com.mx/celda-peltier-40-x-40mm.html,180
+1,ARD-350,19459,Sensor ultrasónico para Arduino y microcontroladores,https://www.steren.com.mx/sensor-ultrasonico-para-arduino-y-microcontroladores.html,63
+1,PIC-605,20145,Programador de microcontroladores PICs,https://www.steren.com.mx/programador-de-microcontroladores-pics.html,320
+1,MOT-160,20508,"Motor reductor metálico con eje tipo “D”, 12 V",https://www.steren.com.mx/motor-reductor-metalico-con-eje-tipo-d-12-v.html,280
+1,ARD-390,19580,Módulo Wi-Fi para Arduino y microcontroladores,https://www.steren.com.mx/modulo-wi-fi-para-arduino-y-microcontroladores.html,160
+1,ARD-010,20794,Placa con sistema Arduino UNO,https://www.steren.com.mx/placa-con-sistema-arduino-uno.html,250
+1,ARD-310,19453,Juego de 80 cables tipo Dupont de 15 cm para proyectos Arduino,https://www.steren.com.mx/juego-de-80-cables-tipo-dupont-de-15-cm-para-proyectos-arduino.html,79
+1,ARD-395,20764,Placa de desarrollo NodeMcu (ESP8266),https://www.steren.com.mx/placa-de-desarrollo-nodemcu-esp8266.html,180
+1,ARD-030,16163,Placa con sistema Arduino MEGA,https://www.steren.com.mx/placa-con-sistema-arduino-mega.html,450
+1,ARD-005,19451,Placa con sistema Arduino NANO,https://www.steren.com.mx/placa-con-sistema-arduino-nano.html,240
+1,CAI-201,16618,Juego de 10 cables de 26 cm con caimanes chicos,https://www.steren.com.mx/juego-de-10-cables-de-26-cm-con-caimanes-chicos.html,57
+1,TY300,19094,Estuche con 300 cinchos sujetacables,https://www.steren.com.mx/estuche-con-300-cinchos-sujetacables.html,99
+1,HER-155,20087,Kit para limpiar inyectores de impresoras 3D,https://www.steren.com.mx/kit-para-limpiar-inyectores-de-impresoras-3d.html,295
+1,FIL3D-020AM,20111,"Filamento PLA para impresora 3D, amarillo",https://www.steren.com.mx/filamento-pla-para-impresora-3d-amarillo.html,360
+1,HER-205,20431,Mini pulidor inalámbrico multiusos con batería recargable ,https://www.steren.com.mx/mini-pulidor-inalambrico-multiusos-con-bateria-recargable.html,580
+1,HER-201,17382,Mini taladro multiusos con 21 accesorios,https://www.steren.com.mx/mini-taladro-multiusos-con-21-accesorios.html,795
+1,HER-725NE,19483,"Estación profesional para soldar, con lupa y lámpara",https://www.steren.com.mx/estacion-profesional-para-soldar-con-lupa-y-lampara.html,595
+1,HER-190,17380,Portafolio profesional de herramientas para electrónica,https://www.steren.com.mx/portafolio-profesional-de-herramientas-para-electronica.html,2790
+1,CAU-311,16694,Esponja limpiadora de puntas para cautín modelo CAU-300,https://www.steren.com.mx/esponja-limpiadora-de-puntas-para-cautin-modelo-cau-300.html,39
+1,CAU-275,19332,"Cautín profesional de estación con control de temperatura y display, de 60 Watts",https://www.steren.com.mx/cautin-profesional-de-estacion-con-control-de-temperatura-y-display-de-60-watts.html,1990
+1,CAU-179,16668,Desoldador de succión con mango acojinado,https://www.steren.com.mx/desoldador-de-succion-con-mango-acojinado.html,99
+1,CAU-168,16663,"Malla desoldadora de cobre de 2 mm x 1,5 m",https://www.steren.com.mx/malla-desoldadora-de-cobre-de-2-mm-x-1-5-m.html,33
+1,SOL-060,18699,Pasta para soldar en lata con 60 gramos,https://www.steren.com.mx/pasta-para-soldar-en-lata-con-60-gramos.html,38
+1,FLUX,17250,"Limpiador para soldar con atomizador, de 120 ml",https://www.steren.com.mx/limpiador-para-soldar-con-atomizador-de-120-ml.html,99
+1,SOL63-450,18704,Rollo de 450 gramos de soldadura con aleación estaño/plomo (63/37),https://www.steren.com.mx/rollo-de-450-gramos-de-soldadura-con-aleacion-esta-o-plomo-63-37.html,540
+1,CAU-190,16670,"Cautín de lápiz tipo estación, con control de temperatura, de 45 Watts",https://www.steren.com.mx/cautin-de-lapiz-tipo-estacion-con-control-de-temperatura-de-45-watts.html,495
+1,WE1010,20467,"Cautín de estación profesional con control de temperatura y display marca Weller, de 70 Watts",https://www.steren.com.mx/cautin-de-estacion-profesional-con-control-de-temperatura-y-display-marca-weller-de-70-watts.html,3390
+1,HER-411,20075,Calibrador vernier digital,https://www.steren.com.mx/calibrador-vernier-digital.html,199
+1,MUL-030,20569,Multímetro digital para SMD,https://www.steren.com.mx/multimetro-digital-para-smd.html,370
+1,MUL-285,18019,Multímetro profesional auto rango,https://www.steren.com.mx/multimetro-profesional-auto-rango.html,795
+1,MFD-016,17705,Memoria USB 3.0 de 16 GB,https://www.steren.com.mx/memoria-usb-3-0-de-16-gb.html,150
+1,MSD-128/MICRO,20784,Memoria Micro SD clase 10 de 128 GB,https://www.steren.com.mx/memoria-micro-sd-de-128-gb-clase-10.html,595
+1,905-026,15996,Tira multicontactos de 6 salidas horizontales con switch reset ,https://www.steren.com.mx/tira-multicontactos-de-6-salidas-horizontales-con-switch-reset.html,99
+1,USB-347,20517,Cable  USB  a micro USB  tipo cordón de 1 m,https://www.steren.com.mx/cable-usb-a-micro-usb-tipo-cordon-de-1-m.html,99
+1,USB-316,19110,"Extensión USB de 1,8 m con conectores niquelados.",https://www.steren.com.mx/extension-usb-de-1-8-m-con-conectores-niquelados.html,39
+1,USB-340,19111,"Cable USB a mini USB, de 1,8 m",https://www.steren.com.mx/cable-usb-a-mini-usb-de-1-8-m.html,68
+1,206-846,15412,"Cable HDMI® con conectores niquelados, de 1,8 m",https://www.steren.com.mx/cable-hdmir-con-conectores-niquelados-de-1-8-m.html,39
+1,HER-265,17398,Pinza pela cables automática,https://www.steren.com.mx/pinza-pela-cables-automatica.html,495
+1,HER-125,17367,Pinza de corte angular,https://www.steren.com.mx/pinza-de-corte-angular.html,150
+1,HER-130,17368,Pinza de punta,https://www.steren.com.mx/pinza-de-punta.html,150
+5,POT18BI-500 VTA,20741,"Cable dúplex para bocina, 18 AWG",https://www.steren.com.mx/cable-duplex-para-bocina-18-awg-vta.html,9
+1,255-255,20536,"Cable AUX 3,5 mm de 4 polos (TRRS) de 1,8 m",https://www.steren.com.mx/cable-aux-3-5-mm-de-4-polos-trrs-de-1-8-m.html,39
