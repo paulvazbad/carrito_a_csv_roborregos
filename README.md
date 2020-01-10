@@ -24,3 +24,16 @@ De cada item del carrito extrae la siguiente informacion:
 * product_image
 
 Y la guarda en un csv para abrirlo en excel y en un nuevo json simplificado.
+
+
+## Como usar el script
+ ```
+python3  cart_to_csv.py 
+```
+usage: cart_to_csv.py [-h] [--file [FILE]]
+
+Processa un carrito de steren.
+
+optional arguments:
+  -h, --help     show this help message and exit
+  --file [FILE]  name of the json file (default cart.json)
