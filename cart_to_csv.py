@@ -20,7 +20,8 @@ valid_keys = ['qty',
               'product_name',
               'product_url',
               'product_price_value']
-
+costoTotal = 0
+costoParcial = 0
 try:
     with open(arguments.file, encoding="utf8") as json_file:
         data = json.load(json_file)
@@ -28,13 +29,21 @@ try:
         print("Items en el carrito: " + str(len(items)))
         print('Procesando: ')
         for index, item in enumerate(items):
-            print(".", end = '')
+            print(".", end='')
             updated = {key: (item[key]) for key in valid_keys}
+            updated['¿Competencia/Laboratorio?'] = ''
+            costoParcial = float(
+                updated['product_price_value'])*float(updated['qty'])
+            updated['product_total'] = costoParcial
+            costoTotal = costoTotal + costoParcial
+            updated[' '] = ''
             items[index] = updated
 except IOError:
     print("I/O error")
 print("\n")
 csv_file = "output.csv"
+
+
 try:
     print("Generando output.csv...")
     with open(csv_file, 'w', newline='') as csvfile:
@@ -43,8 +52,9 @@ try:
         writer.writeheader()
         print('Escribiendo: ')
         for item in items:
-            print(".", end = '')
+            print(".", end='')
             writer.writerow(item)
+        writer.writerow({'qty': 'TOTAL', ' ':costoTotal})
     print('\n')
     print("Finalizado :)")
 except IOError:
